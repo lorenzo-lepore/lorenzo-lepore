@@ -1,4 +1,4 @@
-- 👋 Sup, I’m @Ign0red
+- 👋 Sup, I’m @lorenzo.lepore
 - 👀 I’m interested in hacking, cryptocurrency and lots of programming languages
 - 🌱 I’m currently learning how to survive
 - 💞️ I’m looking to collaborate on learning how to interact with people
