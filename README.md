@@ -1,5 +1,4 @@
 - 👋 Sup, I’m @lorenzo-lepore
-- 👀 I’m interested in hacking, cryptocurrency and lots of programming languages
-- 🌱 I’m currently learning how to survive
-- 💞️ I’m looking to collaborate on learning how to interact with people
+- 👀 I’m interested in ethical hacking and lots of programming languages
+- 💞️ I’m looking to collaborate on development projects 
 - 📫 How to reach me: l.lepore@studenti.unimol.it
