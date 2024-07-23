@@ -1,4 +1,4 @@
-- 👋 Sup, I’m @lorenzo-lepore
+- 👋 Hey, I’m @lorenzo-lepore
 - 👀 I’m interested in ethical hacking and lots of programming languages
 - 💞️ I’m looking to collaborate on development projects 
 - 📫 How to reach me: l.lepore@studenti.unimol.it
